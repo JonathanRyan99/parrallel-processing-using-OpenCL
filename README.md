@@ -14,5 +14,5 @@ The presented tutorials were developed and tested on Windows 10, Visual Studio 2
  - A useful reference if you are struggling to get going: [OpenCL on Windows](http://streamcomputing.eu/blog/2015-03-16/how-to-install-opencl-on-windows/).
 
 
-
+work demonstrated in tutorial 2 folder under tut2 and in the kernal files
 
